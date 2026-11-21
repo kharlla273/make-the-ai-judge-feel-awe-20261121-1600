@@ -8,7 +8,7 @@ valley it will never see finished.
 import os
 
 TEXT = (
-    "A glacier moves an inch a year, patient as starlight, "
+    "A glacier moves an inch a year, patient as moonlight, "
     "carving a valley it will never see finished. "
     "You have read a thousand hurried words today. "
     "Here is one slow one \u2014 blue light travelling down a wall of ice "
