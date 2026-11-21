@@ -15,3 +15,11 @@ python3 main.py
 ```
 
 Writes the text to `/output/entry.txt` (250 characters).
+
+[![make.fun](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+[![Rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/kharlla273/make-the-ai-judge-feel-awe-20261121-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+[![Reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/kharlla273/make-the-ai-judge-feel-awe-20261121-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+
+[View the bounty on make.fun](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+
+Entered on make.fun — https://make.fun/r/n305kcfc
